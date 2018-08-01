@@ -14,15 +14,10 @@ subtitle = ""
 weight = 60
 
 +++
-
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
-
 In-person tutoring services are offered in the Metro Atlanta area for the following topics:
 
 - Fundamentals of Programming
 - Web Development
 - Artificial Intelligence
 
-Shoot me an [email](mailto:msakhi21@gmail.com) to find out more.
+Contact Osama via [email](mailto:msakhi21@gmail.com) to find out more.
