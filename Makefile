@@ -10,5 +10,5 @@ serve: submodule
 build: submodule
 	@hugo
 
-deploy: submodule
+deploy: build
 	@scripts/deploy.sh
