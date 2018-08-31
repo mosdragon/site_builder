@@ -28,8 +28,8 @@ weight = 5
 +++
 
 # Biography
-Osama Sakhi is a currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.
+Osama Sakhi is currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.
 
-Alongside being a Master's student, Osama now also runs an indepent tutoring service. More information can be found [here](#tutoring).
+Alongside being a Master's student, Osama now also runs an indepedent tutoring service. More information can be found [here](#tutoring).
 
 Recently, he's become interested in educational outreach programs. In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/post/teaching_at_tip/).
