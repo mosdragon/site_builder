@@ -1,15 +1,15 @@
 +++
-title = "Course Lineup 2018"
-date = 2018-08-04T23:09:10-04:00
+title = "SUMO Challenge"
+date = 2018-11-29T10:00:00-00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Osama Sakhi"]
+authors = []
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Quantum Mechanics", "CSE", "Computer Vision", "Grad School"]
-categories = ["Grad School"]
+tags = ["Computer Vision"]
+categories = ["Research"]
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -17,19 +17,9 @@ categories = ["Grad School"]
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "lineup.jpg"
-caption = "Football Field Lines"
+image = "sumo.png"
+caption = "3D Point Cloud Detection of a Sofa"
 preview = true
 
 +++
-
-In Fall 2018, he will be taking the following courses:
-
-- Quantum Mechanics - CHEM 6495
-- Computer Vision - CS 6476
-- CSE Algorithms - CSE 6140
-
-In Addition, I will be involved with the following:
-
-- [SUMO Challenge](/project/sumo) with Zhile Ren and Frank Dellaert
-- TEDxGeorgiaTech as a [Speaker](/post/ted)
+In Fall 2018, I joined [Zhile Ren](http://cs.brown.edu/people/zr1/) and [Frank Dellaert](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) on the [SUMO Challenge](https://www.cc.gatech.edu/~dellaert/FrankDellaert/Frank_Dellaert/Frank_Dellaert.html) by Facebook.
