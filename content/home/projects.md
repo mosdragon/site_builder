@@ -39,7 +39,7 @@ filter_default = 0
 
 [[filter]]
   name = "High Performance Computing"
-  tag = "hpc"
+  tag = "High Performance Computing"
 
 +++
 
