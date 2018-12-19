@@ -18,7 +18,7 @@ categories = ["Communication"]
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
 image = "ted.png"
-caption = "Osama Sakhi Speaking at TEDxGeorgiaTech"
+caption = "Osama Sakhi Speaking at TEDxGeorgiaTech's Fall 2018 Speaker Salon"
 preview = true
 
 +++

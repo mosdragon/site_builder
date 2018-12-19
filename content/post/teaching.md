@@ -1,31 +1,44 @@
 +++
-title = "I Left My Job to Teach High-Schoolers at a Summer Camp, Here's What I Learned"
+title = "Leaving My Comfort Zone: 4 Weeks Teaching High Schoolers"
 date = 2018-07-31T23:09:17-04:00
 draft = false
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-# Tags and categories
-# For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Teaching", "Artificial Intelligence", "Machine Learning", "NLP"]
 categories = ["Teaching"]
 
-# Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 # Use `caption` to display an image caption.
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "no_lifeguard.png"
-caption = "No Lifeguard on Duty"
+image = "rice.png"
+caption = "Rice University"
 preview = true
 
 +++
-In Summer 2018, I became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/):
+
+### Background:
+From June 2017 to June 2018, I worked as a Full-Time Software Engineer. I was all set to leave work at the end of the summer and return to Georgia Tech as a full-time Master's Student for the Fall 2018 semester, but I suddenly got offered this unique opportunity by [Duke TIP](https://tip.duke.edu/) to teaching high schoolers Programming and AI. I _jumped_ at the opportunity. Friday June 22nd, 2018 was my last day as an engineer, and Saturday morning on June 23rd I was already flying out to Houson for Rice University.
+
+
+The next four weeks, I taught 2 classes:
 
 - [Applications, Algorithms, Computers: Modern Programming](https://tip.duke.edu/programs/summer-studies/courses/applications-algorithms-computers-modern-programming-0) @ Rice University
-- [Artificial Intelligence](https://tip.duke.edu/programs/summer-studies/courses/artificial-intelligence) @ Georgia Tech
+- [Artificial Intelligence](https://tip.duke.edu/programs/summer-studies/courses/artificial-intelligence-0) @ Georgia Tech
 
+### Phase I
+The first class, I was a temp hire -- I was only there for the final week, since the previous instructor for the course was unable to teach that final week of the program. So, I was responsible for making sure these 18 students understood Python well enough that in just 5 days, I could teach them the basics of Web Development, and by the end of the week, each student would have used the [Flask](http://flask.pocoo.org) framework to make a really simple Twitter clone. Despite my limited time with the students, this was an overwhelming success.
 
-Through this experience, I learned to design courses end-to-end, including crafting syllabi, conducting lectures, creating assignments, & engaging in parent-teacher conferences.
+The true hero was my Teaching Assistant, Noah Spiner, who held the class together all three weeks and made my transition into the classroom with these new kids a smooth one.
+
+Just 7 days after my arrival there, it was time to say goodbye. I had parent-teacher conferences with each of my students' parents. It was a wonderful experience -- my students genuinely felt that I'd impacted them in that short 1-week we were here together, and parents loved how I'd manaded to inspire their kids.
+
+### Phase II
+This is the part of the teaching experience I was _really_ psyched about -- the chance to teach high schoolers AI! I was tasked with crafting the curriculum end-to-end, including crafting syllabi, conducting lectures, creating assignments.
+
+You can see my syllabus [here](/files/syllabus.pdf). It offered a mix of the serious topics (Fundamentals of Python, Graph Search, Machine Learning, Natural Language Processing) and fun games and activities the class really enjoyed (Bot or Not?, Jeopardy Review sessions, AI Rap Battle, Robotics Lab Field Trip).
+
+Three whole weeks somehow flew by, and I could see from the looks on my students' faces that they felt the impact of my teaching. This was worth it all. This was worth the additional 2-3 hours I'd spend nightly preparing material for the next day, this was worth having to overcome my fear of standing in front of crowds, and this was definitely worth forgoing the additional month of full-time work experience I could've had instead.
+
