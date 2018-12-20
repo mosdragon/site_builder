@@ -8,10 +8,9 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Copy CNAME file in bc it keeps getting deleted.
 cp CNAME public/CNAME
 
-printf "public/CNAME contents: %s \n" `cat public/CNAME`
-
 # Go To Public folder
 cd public
+
 # Add changes to git.
 git add .
 
@@ -20,7 +19,7 @@ msg="Rebuilding site at: `date`"
 if [ $# -eq 1 ]
   then msg="$1"
 fi
-git commit -m "$msg"
+git commit -am "$msg"
 
 # Push source and build repos.
 git push origin master
