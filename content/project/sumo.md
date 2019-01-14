@@ -10,8 +10,8 @@ categories = ["Research"]
 
 
 [header]
-image = "sumo.png"
-caption = "3D Point Cloud Detection of a Sofa"
+image = "sumo/sumo_door.png"
+caption = "3D Detection of a Door"
 preview = true
 
 +++
@@ -33,13 +33,28 @@ We decided a good starting point would be to determine object locations in the 2
 
 1. Project 3D bounding boxes into 2D space to generate a 2D dataset
 2. Train a Faster-R-CNN network to detect objects on the 2D dataset
-3/ Project the 2D coordinates back into 3D, do some simple post-processing to prevent things like walls and floors from being in the bounding box
-4. Train Regressors to help correct the coordinates on a per-category basis.
+3. Project the 2D coordinates back into 3D, do some simple post-processing to prevent things like walls and floors from being in the bounding box
+4. Train Regressors to help correct the coordinates on a per-category basis
 
 
 ### Results
-On December 18th, we found out that the SUMO challege deadline would be pushed back to mid-January, so we're continuing work on steps `(3)` and `(4)` and will be publishing results here after the holidays in early January.
+On December 18th, we found out that the SUMO challege deadline would be pushed back to January 14th. We continue work on steps `(3)` and `(4)` but didn't get very far in attempting `(4)`. We made our submission on Sunday, January 13th, and are currently awaiting official results.
 
+
+### Visual Results in 3D
+Below are our results in the 3D space. On the left, we have a red bounding box, which is our detection. On the right in green we have the ground truth bounding boxes for that same scene.
+
+![Detection of a television  with books in the tv stand](/img/sumo/sumo_tv.png)
+<center> __Figure 1:__ Detection of a `television`  with `books` in the tv stand. </center>
+
+![Detection of a shower](/img/sumo/sumo_shower.png)
+<center> __Figure 2:__ Detection of a `shower`. </center>
+
+![Detection of a door](/img/sumo/sumo_door.png)
+<center> __Figure 3:__ Detection of a `door`. </center>
+
+
+### Visual Results in 2D
 Below are some visual results we've gotten in the 2D space training the Faster-R-CNN network.
 
 ![Scene 1](/img/sumo/one.jpg)
@@ -50,4 +65,4 @@ Below are some visual results we've gotten in the 2D space training the Faster-R
 
 As you can see, the network performs fairly well. Mean AP was about `23%` which is reasonable given the enormous dataset size and the skewed distribution. One aspect that particularly complicates this challenge are the walls and floors, which are object categories, but the coordinates are often outside of single-frame views, which is exactly what this network was trained to perform on.
 
-More detailed results and statistics to come soon...
+
