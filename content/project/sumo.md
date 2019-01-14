@@ -10,8 +10,8 @@ categories = ["Research"]
 
 
 [header]
-image = "sumo/sumo_door.png"
-caption = "3D Detection of a Door"
+image = "sumo.png"
+caption = "3D Detection of a Sofa"
 preview = true
 
 +++
@@ -38,7 +38,7 @@ We decided a good starting point would be to determine object locations in the 2
 
 
 ### Results
-On December 18th, we found out that the SUMO challege deadline would be pushed back to January 14th. We continue work on steps `(3)` and `(4)` but didn't get very far in attempting `(4)`. We made our submission on Sunday, January 13th, and are currently awaiting official results.
+On December 18th, we found out that the SUMO challege deadline would be pushed back to January 14th. We continued work on step `(3)` but didn't get very far in step `(4)`, so our final pipeline consists of steps `(1)` through `(3)`. We made our submission on Sunday, January 13th, and are currently awaiting official results.
 
 
 ### Visual Results in 3D
