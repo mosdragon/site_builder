@@ -38,7 +38,9 @@ We decided a good starting point would be to determine object locations in the 2
 
 
 ### Results
-On December 18th, we found out that the SUMO challege deadline would be pushed back to January 14th. We continued work on step `(3)` but didn't get very far in step `(4)`, so our final pipeline consists of steps `(1)` through `(3)`. We made our submission on Sunday, January 13th, and are currently awaiting official results.
+On December 18th, we found out that the SUMO challege deadline would be pushed back to January 14th. We continued work on step `(3)` but didn't get very far in step `(4)`, so our final pipeline consists of steps `(1)` through `(3)`. We made our submission on Sunday, January 13th.
+
+We found out that we were narrowly beat by the Princeton Vision Lab for 1st place, leaving us in 2nd place for our cateogry.
 
 
 ### Visual Results in 3D
