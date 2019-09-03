@@ -31,8 +31,7 @@ date_format = "Jan 2006"
   Responsibilities include:
 
   * Managing 16 TAs in grading coursework, proctoring exams, and reviewing course material for 500 undergraduate students
-  * Creating new course assignments to facilitate better understanding of core machine learning algorithms such as Naive
-Bayes
+  * Creating new course assignments to facilitate better understanding of core machine learning algorithms such as Naive Bayes
   """
 
 
