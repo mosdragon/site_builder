@@ -15,24 +15,26 @@ role: Head Teaching Assistant for Introduction to Artificial Intelligence
 # Organizations/Affiliations
 organizations:
 - name: Georgia Institute of Technology
-  url: ""
+  url: "https://gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: MS CSE student at GT looking to become a Professor someday.
 
 interests:
 - Artificial Intelligence
-- Natural Language Processing
+- Machine Learning
+- Social Computing
 - Computer Vision
+- Natural Language Processing
 
 education:
   courses:
   - course: MS in Computational Science and Engineering
     institution: Georgia Institute of Technology
-    year: 2019
+    year: December 2019
   - course: BS in Computer Science
     institution: Georgia Institute of Technology
-    year: 2017
+    year: May 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -66,6 +68,6 @@ user_groups:
 
 Osama Sakhi is currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.
 
-In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/post/teaching/).
+In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/courses/tip/).
 
-He's currently applying for PhD programs in Computer Science.
+Osama has done research in High Performance Computing, Computer Vision, and Social Computing.
