@@ -40,43 +40,10 @@ Just 7 days after my arrival there, it was time to say goodbye. I had parent-tea
 ## Phase II
 This is the part of the teaching experience I was _really_ psyched about -- the chance to teach high schoolers AI! I was tasked with crafting the curriculum end-to-end, including crafting syllabi, conducting lectures, creating assignments.
 
-You can see my syllabus [here](/files/syllabus.pdf). It offered a mix of the serious topics (Fundamentals of Python, Graph Search, Machine Learning, Natural Language Processing) and fun games and activities the class really enjoyed (Bot or Not?, Jeopardy Review sessions, AI Rap Battle, Robotics Lab Field Trip).
+You can see my syllabus [here](/files/duke_syllabus.pdf). It offered a mix of the serious topics (Fundamentals of Python, Graph Search, Machine Learning, Natural Language Processing) and fun games and activities the class really enjoyed (Bot or Not?, Jeopardy Review sessions, AI Rap Battle, Robotics Lab Field Trip).
 
 Three whole weeks somehow flew by, and I could see from the looks on my students' faces that they felt the impact of my teaching. This was worth it all. This was worth the additional 2-3 hours I'd spend nightly preparing material for the next day, this was worth having to overcome my fear of standing in front of crowds, and this was definitely worth forgoing the additional month of full-time work experience I could've had instead.
 
 
-## Resources
-
-This feature can be used for publishing content such as:
-
-* **Online courses**
-* **Project or software documentation**
-* **Tutorials**
-
-The `courses` folder may be renamed. For example, we can rename it to `docs` for software/project documentation or `tutorials` for creating an online course.
-
-## Delete tutorials
-
-**To remove these pages, delete the `courses` folder and see below to delete the associated menu link.**
-
-## Update site menu
-
-After renaming or deleting the `courses` folder, you may wish to update any `[[main]]` menu links to it by editing your menu configuration at `config/_default/menus.toml`.
-
-For example, if you delete this folder, you can remove the following from your menu configuration:
-
-```toml
-[[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
-```
-
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
-
-```toml
-[[main]]
-  name = "Docs"
-  url = "docs/"
-  weight = 50
-```
+## Syllabus
+I've published the [syllabus](/files/duke_syllabus.pdf) here for you to use to create your own AI course. If you find any of the resources here to be helpful in teaching, I would love to hear about it! Feel free to [email me](mailto:msakhi21@gmail.com) about your experiences with the curriculum.
