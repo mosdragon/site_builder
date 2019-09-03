@@ -37,6 +37,7 @@ summary: Dataset paper for the Scene Understanding and Modeling (SUMO) Challenge
 tags:
 - research
 - computer vision
+- machine learning
 featured: true
 
 links:

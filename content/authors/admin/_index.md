@@ -18,7 +18,7 @@ organizations:
   url: "https://gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: MS CSE student at GT looking to become a Professor someday.
+bio: MS CSE student at GT
 
 interests:
 - Artificial Intelligence

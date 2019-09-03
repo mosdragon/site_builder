@@ -21,7 +21,7 @@ menu:
     weight: 1
 ---
 
-## Background:
+## Background
 From June 2017 to June 2018, I worked as a Full-Time Software Engineer. I was all set to leave work at the end of the summer and return to Georgia Tech as a full-time Master's Student for the Fall 2018 semester, but I suddenly got offered this unique opportunity by [Duke TIP](https://tip.duke.edu/) to teaching high schoolers Programming and AI. I _jumped_ at the opportunity. Friday June 22nd, 2018 was my last day as an engineer, and Saturday morning on June 23rd I was already flying out to Houson for Rice University.
 
 
