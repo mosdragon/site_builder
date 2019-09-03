@@ -16,4 +16,5 @@ weight: 2
 
 ## Project Links
 Here are links to the projects I used for my students during the Pathfinding portion of the course:
+
 - [Pacman Search Project](http://ai.berkeley.edu/search.html)

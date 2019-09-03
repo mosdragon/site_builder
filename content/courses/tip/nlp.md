@@ -17,4 +17,5 @@ weight: 4
 
 ## Project Links
 Here are links to the projects I created or used for my students during the Natural Language Processing portion of the course:
+
 - [Sentiment Analysis of Amazon Reviews](https://github.com/mosdragon/teach_ml/blob/master/amazon_reviews_classification.ipynb)
