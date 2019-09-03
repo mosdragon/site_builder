@@ -14,8 +14,11 @@ image:
   caption: "3D Detection of a Sofa"
   focal_point: "Smart"
 
+
+# url_pdf: "/files/sumo_paper.pdf"
+
 links:
-url_pdf: "/files/sumo_paper.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

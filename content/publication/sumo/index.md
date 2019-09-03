@@ -43,7 +43,9 @@ featured: true
 links:
 - name: Sumo Challenge
   url: http://sumochallenge.org
-url_pdf: /files/sumo_paper.pdf
+url_pdf: ""
+
+# url_pdf: /files/sumo_paper.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
