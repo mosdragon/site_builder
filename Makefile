@@ -4,10 +4,10 @@ all: serve
 submodule:
 	@git submodule update --init --recursive
 
-serve: submodule
+serve: 
 	@hugo serve -D -p 8080 --disableFastRender
 
-build: submodule
+build:
 	@hugo
 
 deploy: build
