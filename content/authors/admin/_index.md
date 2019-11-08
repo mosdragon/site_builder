@@ -24,8 +24,9 @@ interests:
 - Artificial Intelligence
 - Machine Learning
 - Social Computing
-- Computer Vision
 - Natural Language Processing
+- Computer Vision
+
 
 education:
   courses:

@@ -30,8 +30,11 @@ date_format = "Jan 2006"
 
   Responsibilities include:
 
-  * Managing 16 TAs in grading coursework, proctoring exams, and reviewing course material for 500 undergraduate students
-  * Creating new course assignments to facilitate better understanding of core machine learning algorithms such as Naive Bayes
+  * Managing a team of 17 Teaching Assistants in grading coursework and proctoring exams for 450 undergraduate students
+  * Developed entirely new mass autograder system with built-in plagiarism detector to reduce the time each TA must spend grading from 2 hours to 15 minutes.
+  * Served as guest lecturer on Particle Filtering for a class section with 300 students
+  * Creating new material with detaile dexplanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
+  * Leading review sessions to help students better understand course concepts in preparation for projects and exams
   """
 
 
@@ -44,7 +47,7 @@ date_format = "Jan 2006"
   date_end = "2019-08-02"
   description = """
   * Fine-tuned 20+ models to extract fine-grained features from furniture images to enable training of a generative model that could produce aesthetically compatible furniture collections
-  * Detected mis-labeled samples in noisy dataset by using Siamese network-obtained embeddings, clustering, and normalized mutual information scores to boost model performance by 5%
+  * Developed a reusable framework for quickly aggregating images from the various data sources, performing data cleanup and augmentations, fine-tuning ResNet/VGG models, and finally evaluating using F1 scores and confusion matrices
   """
 
 [[experience]]
