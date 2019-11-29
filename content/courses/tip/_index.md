@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Duke TIP Artificial Intelligence Summer 2018
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: I served as an Instructor for DukeTIP during Summer 2018
 weight: 1
 
 # Page metadata.
