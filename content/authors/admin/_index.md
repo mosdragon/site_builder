@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:msakhi3@gatech.edu'
+  link: 'mailto:msakhi21@gmail.com'
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -62,9 +62,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+user_groups: []
+# - Researchers
+# - Visitors
 ---
 
 Osama Sakhi is currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.

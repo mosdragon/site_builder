@@ -14,33 +14,33 @@
   weight = 2
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 3
+name = "Projects"
+url = "#projects"
+weight = 3
 
 [[main]]
-  name = "Experience"
-  url = "#experience"
-  weight = 4
+name = "Experience"
+url = "#experience"
+weight = 4
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 5
+name = "Publications"
+url = "#publications"
+weight = 5
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 6
+name = "Posts"
+url = "#posts"
+weight = 6
 
 [[main]]
-  name = "Courses"
-  url = "courses/"
+name = "Teaching"
+url = "teaching"
   weight = 9
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/resume.pdf"
+   url = "files/cv.pdf"
    weight = 10
