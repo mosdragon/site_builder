@@ -60,7 +60,7 @@ date_format = "Jan 2006"
   description = """
   * Taught a total of 40 students for four weeks across two courses: Modern Programming and Artificial Intelligence
   * Designed syllabi, conducted parent-teacher conferences, crafted assignments spanning five core topics: Fundamentals of Python Programming, Web Development, Pathfinding, Machine Learning, Natural Language Processing
-  * Find out more about the courses I created [here](/courses/tip/)
+  * Find out more about the courses I created [here](/teaching/tip/)
   """
 
 [[experience]]

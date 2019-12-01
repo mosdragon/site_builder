@@ -69,6 +69,6 @@ user_groups: []
 
 Osama Sakhi is currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.
 
-In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/courses/tip/).
+In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/teaching/tip/).
 
 Osama has done research in High Performance Computing, Computer Vision, and Social Computing.
