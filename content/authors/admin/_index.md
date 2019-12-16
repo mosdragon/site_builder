@@ -67,8 +67,15 @@ user_groups: []
 # - Visitors
 ---
 
-Osama Sakhi is currently a Master's student at Georgia Tech studying Computational Science & Engineering. He previously graduated from Georgia Tech in Spring 2017 with a Bachelor's Degree in Computer Science.
+I recently complted my Master's degree in _Computational Science & Engineering_ at the Georgia Institute of Technology. Previously, I've also completed a Bachelor's degree in _Computer Science_ from Georgia Tech, with specializations in _Artificial Intelligence_ and _Devices_.
 
-In Summer 2018, he became an Instructor for two courses offered by [Duke TIP](https://tip.duke.edu/). Read more about his experiences [here](/teaching/tip/).
+Over the years I've conducted research in multiple labs, served as a TA several times, and worked as a back-end software engineer. Here are some of my highlights:
 
-Osama has done research in High Performance Computing, Computer Vision, and Social Computing.
+- Head TA for Intro. to Artificial Intelligence - _Fall 2019_
+- Research with the [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/) -- _Summer 2019 - Present_
+- Computer Vision Intern -- _Summer 2019_
+- Research in 3D Object Detection -- _Fall 2018 - Spring 2019_
+- Software Engineer -- _Summer 2017 to Summer 2018_
+- Research in High Performance Computing -- _Fall 2016 - Spring 2017_
+- Instructor for Artificial Intelligence at DukeTIP -- _Summer 2018_
+- Delivered two TEDx talks on Mentorship -- _Fall 2018 - Spring 2019_

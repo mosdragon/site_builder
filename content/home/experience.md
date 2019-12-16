@@ -24,17 +24,17 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Atlanta, GA"
   date_start = "2019-08-19"
-  date_end = ""
+  date_end = "2019-12-15"
   description = """
   Serving as Head TA for CS3600 - Intro. to Artificial Intelligence.
 
   Responsibilities include:
 
-  * Managing a team of 17 Teaching Assistants in grading coursework and proctoring exams for 450 undergraduate students
+  * Managed a team of 17 Teaching Assistants in grading coursework and proctoring exams for 450 undergraduate students
   * Developed entirely new mass autograder system with built-in plagiarism detector to reduce the time each TA must spend grading from 2 hours to 15 minutes.
   * Served as guest lecturer on Particle Filtering for a class section with 300 students
-  * Creating new material with detaile dexplanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
-  * Leading review sessions to help students better understand course concepts in preparation for projects and exams
+  * Created new material with detaile dexplanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
+  * Lead review sessions to help students better understand course concepts in preparation for projects and exams
   """
 
 

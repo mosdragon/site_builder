@@ -21,13 +21,13 @@ subtitle = ""
   name = "Research"
 
 [[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine Learning"
+
+[[feature]]
   icon = "chalkboard-teacher"
   icon_pack = "fas"
   name = "Teaching"
-
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Data Science"
 
 +++
