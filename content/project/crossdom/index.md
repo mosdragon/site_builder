@@ -3,6 +3,8 @@ title: Cross-Domain Context Prediction
 summary: Cross Domain Context Prediction for Sketch-Based Image Retrieval
 tags:
 - machine learning
+- self-supervised learning
+- unsupervised learning
 - computer vision
 - research
 date: "2019-11-30T12:00:00Z"
@@ -51,7 +53,6 @@ url_video: "https://youtu.be/jxWmfB7XU1c"
 - We then extract two patches, one from each domain, i.e. images from Pascal, and their Canny edges
 - We finally compute the relative positioning of the patches using the context encoder
 
-
 ![Spatial relation between patches](spatial.png)
 ![AlexNet-inspired classification architecture](classification.png)
 
@@ -64,20 +65,28 @@ url_video: "https://youtu.be/jxWmfB7XU1c"
 ![Computing embeddings and finding nearest neighbors](neighbors.png)
 
 
-## Experiments
-TODO
-
 ## Results
-TODO
 
 ### Visual Results
 ![Good Results](visual1.png)
-- **Across all classes** → Top two images retrieved correctly fetch birds with the correct pose
+
+- Here is one of our "bad" results -- we can see that the correct instance image is present in the retrieved images
+- We can also see that the other bird result also captures similar pose as the sketch
 
 ![Bad Results](visual2.png)
-- **Across all classes** → Even in incorrect retrievals across classes, the pose and shape seem to match the intended object
+
+- Here is one of our "bad" results -- we see that the correct instance wasn't retrieved
+- Additionally, the correct class wasn't retrieved either
+- Note how despite the incorrect class/instance retrieval, we do see similarities in the pose and shape between the sketches and the retrieved images
 
 
 ### Comparison to Baselines
 ![Results table. Our methodology beats out feature pyramids without any supervision.](results_table.png)
 
+- Although our approach didn't beat out our main baseline, the Sketchy database approach, we were able to beat out the feature pyramid approach with no supervision
+
+
+## Future Work
+- Study the effects of further training on pretext task
+- Use context-encoder as pretraining for supervised image retreival models
+- Use more sophisticated feature extractors (like GoogLeNet or VGG) that more recent Sketch-Based Image Retrieval methods use

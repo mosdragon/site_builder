@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   * Managed a team of 17 Teaching Assistants in grading coursework and proctoring exams for 450 undergraduate students
   * Developed entirely new mass autograder system with built-in plagiarism detector to reduce the time each TA must spend grading from 2 hours to 15 minutes.
   * Served as guest lecturer on Particle Filtering for a class section with 300 students
-  * Created new material with detaile dexplanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
+  * Created new material with detailed explanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
   * Lead review sessions to help students better understand course concepts in preparation for projects and exams
   """
 
