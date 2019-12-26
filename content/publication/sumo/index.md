@@ -4,10 +4,12 @@ authors:
 - Lyne P. Tchapmi
 - Daniel Huber
 - Richard Skarbez
-- Ilke Demir4 Jimmy Wu
+- Ilke Demir
+- Jimmy Wu
 - Xingyuan Sun
 - admin
-- Zhile Ren6 Shuran Song
+- Zhile Ren
+- Shuran Song
 - Thomas Funkhouser
 - Silvio Savarese
 - Frank Dellaert
