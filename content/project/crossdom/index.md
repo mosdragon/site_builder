@@ -11,16 +11,16 @@ date: "2019-11-30T12:00:00Z"
 external_link: ""
 
 image:
-  caption: "Cross Domain Context Prediction"
+  caption: "Cross-domain context prediction for sketch-based image retrieval"
   focal_point: "Smart"
 
 
 # url_pdf: "/files/crossdom.pdf"
 
 links:
-url_pdf: "/files/crossdom.pdf"
+# url_pdf: "/files/crossdom.pdf"
 url_slides: "/files/crossdom.pdf"
-url_video: ""
+url_video: "https://youtu.be/jxWmfB7XU1c"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -48,7 +48,7 @@ url_video: ""
 
 ### Pre-text Task
 - We divide the image into 4 regions, with uneven spacing and jitter
-- We then extract two patches, one from each domain, i.e. Images from Pascal, and their Canny edges
+- We then extract two patches, one from each domain, i.e. images from Pascal, and their Canny edges
 - We finally compute the relative positioning of the patches using the context encoder
 
 
@@ -64,12 +64,20 @@ url_video: ""
 ![Computing embeddings and finding nearest neighbors](neighbors.png)
 
 
-
 ## Experiments
 TODO
 
 ## Results
 TODO
 
+### Visual Results
+![Good Results](visual1.png)
+- **Across all classes** → Top two images retrieved correctly fetch birds with the correct pose
+
+![Bad Results](visual2.png)
+- **Across all classes** → Even in incorrect retrievals across classes, the pose and shape seem to match the intended object
+
+
+### Comparison to Baselines
 ![Results table. Our methodology beats out feature pyramids without any supervision.](results_table.png)
 
