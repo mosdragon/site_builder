@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Georgia Tech"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#003057"
+
+# Menu
+menu_primary = "#003057"
+menu_text = "#EAAA00"
+menu_text_active = "#F5D580"
+menu_title = "#EAAA00"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "#808080"
