@@ -10,5 +10,5 @@ serve:
 build:
 	@hugo
 
-deploy: build
-	@scripts/deploy.sh
+publish: build
+	@scripts/publish.sh
