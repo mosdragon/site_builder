@@ -34,7 +34,7 @@ publication_types: ["3"]
 abstract: We introduce the Scene Understanding and Modeling (SUMO) challenge with the goal of evaluating the perfor- mance of 3D holistic scene understanding algorithms. With the rise of deep learning algorithms in computer vision, the need for comprehensive datasets started to increase as well as the dependency to benchmark results on those datasets. Our challenge enables evaluating scene understanding ap- proaches on a compelling dataset of synthetically generated 360° RGB-D panoramas, with the accurate ground-truth se- mantic annotations. Challenge participants are asked to derive a complete, instance-level 3D estimation of a scene. Submitted algorithms are evaluated at three levels of com- plexity corresponding to 3 tracks of the challenge --  oriented 3D bounding boxes, oriented 3D voxel grids, and oriented 3D meshes. This paper describes the details of the chal- lenge tasks, including characteristics of scene elements, data format, and evaluation metrics. We also provide base- lines for each task as a proxy for the participants.
 
 # Summary. An optional shortened abstract.
-summary: Dataset paper for the Scene Understanding and Modeling (SUMO) Challenge by Facebook. To view the paper, please [email me](mailto:msakhi21@gmail.com).
+summary: Dataset paper for the Scene Understanding and Modeling (SUMO) Challenge by Facebook.
 
 tags:
 - research
@@ -71,3 +71,8 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+## IMPORTANT
+This paper was being worked on until May 2019. At that time, the competition organizer, Facebook, faced a lawsuit for the creation of the dataset. To mitigate further risk of litigation, this paper was left unpublished and incomplete indefinitely.
+
+The abstract presented above is from our working draft of the paper.
