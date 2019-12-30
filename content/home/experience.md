@@ -19,17 +19,13 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Head Teaching Assistant"
+  title = "Head Teaching Assistant for Intro. to Artificial Intelligence"
   company = "Georgia Institute of Technology"
   company_url = ""
   location = "Atlanta, GA"
   date_start = "2019-08-19"
   date_end = "2019-12-15"
   description = """
-  Serving as Head TA for CS3600 - Intro. to Artificial Intelligence.
-
-  Responsibilities include:
-
   * Managed a team of 17 Teaching Assistants in grading coursework and proctoring exams for 450 undergraduate students
   * Developed entirely new mass autograder system with built-in plagiarism detector to reduce the time each TA must spend grading from 2 hours to 15 minutes.
   * Served as guest lecturer on Particle Filtering for a class section with 300 students

@@ -46,10 +46,12 @@ math: true
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /alert %}} -->
 
-# Background
-I was enrolled in a seminar course titled *Learning with Limited Supervision* in *Fall 2019*, and each class a group of students would lead a discussion on a chosen paper. For my discussion, I chose the *Generative Adversarial Networks* by Ian Goodfellow.
+I was enrolled in a seminar course titled *Learning with Limited Supervision* in *Fall 2019*, and each class a group of students would lead a discussion on a chosen paper. For my discussion, I chose the [*Generative Adversarial Networks*](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf) by Ian Goodfellow.
 
 I was tasked with not only presenting the methodology, but also debating the strengths of the paper against my colleague who presented the paper's weaknesses.
+
+Despite the paper being a seminal work in Computer Vision and in Deep Learning, there was plenty to discuss about the ideas presented in this paper since a few years have passed since its publishing, which allows us to look back and reflect on how these ideas have held up over the years.
+
 
 <!-- - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
