@@ -77,7 +77,8 @@ Over the years I've conducted research in multiple labs, served as a TA several 
 - Research with [Social Dynamics and Wellbeing Lab](https://socweb.cc.gatech.edu/) -- _Summer 2019 - Present_
 - Computer Vision Intern -- _Summer 2019_
 - Research in 3D Object Detection -- _Fall 2018 - Spring 2019_
-- Software Engineer -- _Summer 2017 to Summer 2018_
+- Backend Software Engineer -- _Summer 2017 to Summer 2018_
 - Research in High Performance Computing -- _Fall 2016 - Spring 2017_
-- Instructor for Artificial Intelligence for DukeTIP -- _Summer 2018_
-- Delivered two TEDx talks on Mentorship -- _Fall 2018 - Spring 2019_
+- Speaker for [TEDxGeorgiaTech](https://www.tedxgeorgiatech.com/) -- _Fall 2018 - Spring 2019_
+- Instructor for Artificial Intelligence for [DukeTIP](https://tip.duke.edu/) -- _Summer 2018_
+
