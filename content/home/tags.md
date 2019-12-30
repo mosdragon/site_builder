@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
 
-title = "Popular Topics"
+title = "Popular Tags"
 subtitle = ""
 
 [content]
@@ -18,5 +18,5 @@ subtitle = ""
 [design]
   # Minimum and maximum font sizes (1.0 = 100%).
   font_size_min = 0.9
-  font_size_max = 1.1
+  font_size_max = 1.5
 +++
