@@ -4,16 +4,15 @@ title: Generative Adversarial Networks Discussion
 # event_url: https://example.org
 # location: London, United Kingdom
 summary: A colleague and I presented the findings of the GAN paper by Ian Goodfellow to fellow graduate students.
-# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-11-28T13:00:00Z"
-date_end: "2019-11-28T13:00:00Z"
+date: "2019-09-02T13:30:00Z"
+date_end: "2019-09-02T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-11-28T13:00:00Z"
+publishDate: "2019-12-30T13:00:00Z"
 
 authors: []
 tags: []

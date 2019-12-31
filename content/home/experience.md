@@ -31,6 +31,7 @@ date_format = "Jan 2006"
   * Served as guest lecturer on Particle Filtering for a class section with 300 students
   * Created new material with detailed explanations of concepts such as Admissible & Consistent Heuristics and Mutual Information and with additional examples to ensure students have a firm grasp of course material
   * Lead review sessions to help students better understand course concepts in preparation for projects and exams
+  * Find out more about my efforts in the course [here](/teaching/intro_to_ai/)
   """
 
 
