@@ -31,13 +31,13 @@ slides: ""
 
 
 ## Background
-The [REDUCE](https://socweb.cc.gatech.edu/projects/) project seeks to improve real-time estimation of suicide rates to better enable suicide prevention activities. We've partnered with the CDC to use historical trends with social media data to forecast future trends week-to-week.
+The [REDUCE](https://socweb.cc.gatech.edu/projects/) project seeks to improve real-time estimation of suicide rates to better enable suicide prevention activities. We've partnered with the CDC to use historical trends with other signals such as social media data to forecast suicide trends week-to-week.
 
 One of the motivations for integrating social media data is the speed at which up-to-date social media can be obtained -- instantly. In contrast, the ground-truth suicide trend data takes nearly two years for the CDC to aggregate and publish, which presents problems for real-time estimation of suicide trends.
 
-For my role in this project, I've primarily worked on extracting meaninful signals from social media data we've collected. Most of my time has been spent on the Twitter dataset, which comprises of over 9 million tweets focused around a selected set of keyword phrases related to depression, anxiety, and suicide collected for a 3 year timespan.
+For my role in this project, I've primarily worked on extracting meaninful signals from the social media data we've collected. Most of my time has been spent on the Twitter dataset, which has over 63 million tweets focused around a selected set of keyword phrases related to depression, anxiety, and suicide.
 
-I worked on creating embeddings of these tweets that would then be aggregated on a weekly basis. These aggregations would then represent the mass of tweets for that week and could then be used as the features `X` with the target variable `y` being the true number of suicide attempts that week (provided by the CDC). With the right embedding, we could train regression models to predict this `y` fairly accurately. This regression model would then serve as one learner in a final ensemble approach which uses models built separately on data from other sources such as CDC suicide data, Google Health data, Reddit language model data, etc.
+I worked on creating embeddings of these tweets that would then be aggregated on a weekly basis. These aggregations would then represent the mass of tweets for that week and could then be used as the features `X` with the target variable `y` being the true number of suicide attempts that week (provided by the CDC). With the right embedding, we could train regression models to predict this `y` fairly accurately. This regression model would then serve as one learner in a final ensemble-based approach which uses models built separately on data from other sources such as Google Health data and Reddit language model data.
 
 ## Approaches
 
@@ -54,7 +54,7 @@ With the Bag of Words model, we tried several "flavors" to see what would work b
 
 
 ### Document Embeddings
-This is a new direction we are currently exploring. One crucial limitation of the Bag of Words approach is that the model doesn't take into consideration any sentence structure. This could be problematic especially with our task since certain ways of phrasing a set of words could be perceived as either cause for alarm or simply sarcasm.
+This is a new direction we are currently exploring. One crucial limitation of the Bag of Words approach is that the model doesn't take into consideration any sentence structure. This could be problematic especially with our task since certain ways of phrasing a set of words could be perceived as either cause for alarm or casual internet sarcasm.
 
 To see if this limitation has any effect on the final models used to help predict suicide trends, we are looking into embeddings that are designed to capture document-level patterns. These embeddings can capture much more complex semantic relationships which could be invaluable in our task. Some of the models we're looking at right now include *doc2vec* and *SBERT*.
 
